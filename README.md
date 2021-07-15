@@ -1,7 +1,7 @@
 # Primera practica Bootstrap
 Practica colaborativa DevF
 
-## Integrantes
+## Contribuidores
 
 <a href="https://github.com/HanZacek"><strong>Han</strong></a><br>
 <a href="https://github.com/ernestogilberto"><strong>Ernesto</strong></a><br>
